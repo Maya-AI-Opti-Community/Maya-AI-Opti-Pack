@@ -57,4 +57,4 @@ Have questions? Reach out to us!
 - **Support**: [support@mayaai-opti.com](mailto:support@mayaai-opti.com)  
 - **Telegram**: [@MayaAIOptiSupport](https://t.me/MayaAIOptiSupport)  
 
-![MayaAIOptiCommunity Logo](https://via.placeholder.com/50x50.png?text=Logo)
+ 
