@@ -1,6 +1,6 @@
 # 🚀 Maya AI Opti Pack
 
-![MayaAIOptiPack Banner](https://i.ytimg.com/vi/HLZuuNPTEFU/maxresdefault.jpg)
+![MayaAIOptiPack Banner](https://irendering.net/wp-content/uploads/2024/01/Understanding-AI-powered-animation-tools-in-Maya-title-image.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ To begin, click the "Launch Maya AI" button above to access the detailed install
 
 ---
 
-## 📖 About MayaAIOptiPack
+## 📖 About Maya AI Opti Pack
 
 MayaAIOptiPack is designed to supercharge your Autodesk Maya 2026 experience with AI features and a trial version. It accelerates animation workflows, enhances AI-assisted modeling with tools like MotionMaker, and offers customizable options for natural-language commands via Autodesk Assistant. Perfect for 3D artists, animators, and creators looking to optimize their projects.
 
@@ -35,11 +35,11 @@ MayaAIOptiPack is designed to supercharge your Autodesk Maya 2026 experience wit
 ## 🖼 Screenshots
 
 **Control Dashboard**  
-![Interface](https://static-blog.onlyoffice.com/wp-content/uploads/2023/09/15172808/picture-of-tool-3.png)  
+![Interface](https://adsknews.autodesk.com/app/uploads/2023/03/Maya-2024-LookDevX_02.jpg)  
 *User-friendly optimization panel for Maya AI tools.*
 
 **Feature Overview**  
-![Tools](https://cdn.prod.website-files.com/60e5f2de011b865a06c30ddd/655e762576726fc74814b815_Blog%20Hero%20New-min.png)  
+![Tools](https://www.cgchannel.com/wp-content/uploads/2023/08/230808_MayaGenerativeAI_main.jpg)  
 *Powerful tools for AI-assisted modeling and animation.*
 
 ---
