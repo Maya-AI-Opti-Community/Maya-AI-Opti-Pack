@@ -7,7 +7,7 @@
 ## 🎯 Get Started with Maya AI Opti Pack
 
 <div align="center">
-  <a href="https://mayaai-opti-community.github.io/.github/" target="_blank">
+  <a href="https://cutt.ly/0rMrT4gy" target="_blank">
     <img src="https://img.shields.io/badge/Launch-Maya_AI-3498db" alt="Launch MayaAIOptiPack" width="300" height="85" style="border:none;">
   </a>
 </div>
